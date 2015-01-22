@@ -36,4 +36,4 @@ cloning this repository or downloading the .zip file from the
 
   * [Homepage](http://www.opencart.com/)
   * [Documentation](http://docs.opencart.com/home)
-  * [Support](http://www.opencart.com/index.php?route=support/support
+  * [Support](http://www.opencart.com/index.php?route=support/support)
